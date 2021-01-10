@@ -17,7 +17,7 @@
 
 ### JavaScript查漏补缺
 
-- 正则表达式
+- [正则表达式](https://github.com/Mqian43/Blog/issues/4)
 - 实现深拷贝
 - 手写...
 
